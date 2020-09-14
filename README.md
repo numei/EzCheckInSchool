@@ -55,7 +55,7 @@ https://github.com/YooKing/HAUT_autoCheck - 校外版Python代码参考
 
 https://github.com/LovelyWhite/Haut-AutoCheckin - iPhone捷径版
 
-
+          
  
  
   
